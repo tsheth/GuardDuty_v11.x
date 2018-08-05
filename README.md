@@ -1,4 +1,4 @@
-# Deep Security Amazon GuardDuty Integration
+# Deep Security 11.x Amazon GuardDuty Integration
 
 An AWS Lambda function to create a joint workflow between Amazon GuardDuty and Deep Security.
 
